@@ -1,0 +1,42 @@
+body {
+    background: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 7px;
+    margin: 0 auto;
+}
+
+td a {
+    color: white;
+}
+
+
+.fourohfour {
+    background-color: red;
+}
+
+.success {
+    background-color: green;
+    display: none;
+}
+
+.timedout {
+    background-color: yellow;
+    color: black;
+}
+
+.error {
+    background-color: orange;
+}
